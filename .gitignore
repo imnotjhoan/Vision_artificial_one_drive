@@ -1,0 +1,14 @@
+# Entorno virtual (la carpeta de la imagen)
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de configuración del entorno
+pyvenv.cfg
+
+
+# Distribución / Empaquetado
+dist/
+build/
+*.egg-info/
